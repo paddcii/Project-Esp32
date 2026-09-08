@@ -1,6 +1,7 @@
+   =
    PROJECT: UCAPAN ULANG TAHUN ROMANTIS - ESP32 + LCD I2C + BUZZER
    Untuk: SOMEONE SPECIAL
-   
+   =
   HARDWARE:
    - ESP32   : board
    - LCD I2C : menampilkan teks ucapan (2 baris, huruf kapital)
