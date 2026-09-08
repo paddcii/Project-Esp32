@@ -1,8 +1,9 @@
-/*
+
   ===========================================================
    PROJECT: UCAPAN ULANG TAHUN ROMANTIS - ESP32 + LCD I2C + BUZZER
    Untuk: SOMEONE SPECIAL
   ===========================================================
+  HARDWARE:
    - ESP32   : board
    - LCD I2C : menampilkan teks ucapan (2 baris, huruf kapital)
    - Buzzer  : efek boot + lagu 
@@ -13,4 +14,3 @@
    (Sesuaikan alamat I2C LCD, default 0x27. Jika layar tidak
     menyala coba 0x3F menggunakan I2C scanner)
   ===========================================================
-*/
