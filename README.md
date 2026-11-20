@@ -13,4 +13,4 @@
    (Sesuaikan alamat I2C LCD, default 0x27. Jika layar tidak
     menyala coba 0x3F menggunakan I2C scanner)
   ===========================================================
- 
+
